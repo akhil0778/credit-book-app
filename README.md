@@ -26,7 +26,7 @@ A backend application for managing customers, loans, repayments, and generating 
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -42,8 +42,7 @@ This will create necessary tables (users, customers, loans, repayments, etc.) in
 4. Start the Server
 node server.js
 Your server will run on http://localhost:3000
-
-🧪 API Testing
+### API Testing  ###
 Use Thunder Client or Postman to test endpoints like:
 
 POST /register – Register new users
